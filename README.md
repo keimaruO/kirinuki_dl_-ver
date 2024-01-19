@@ -1,3 +1,27 @@
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+**以下の説明はhttps://github.com/keimaruO/kirinuki_dlこちらと同じです。**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 # yt-dlp_kirinukiとは
 
 yt-dlpを使用して、切り抜き動画制作に特化したダウンローダー

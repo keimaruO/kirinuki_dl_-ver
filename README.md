@@ -2,7 +2,7 @@
 
 元のプロジェクトの改良版であり、別々になってるので注意です！
 
-元のプロジェクト(DL保存先を指定しないver)
+元のプロジェクト (DL保存先を指定しないver)
 
 https://github.com/keimaruO/kirinuki_dl
 

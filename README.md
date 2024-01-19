@@ -8,7 +8,7 @@ URLを貼り付けると保存したい場所を選択するエクスプロー�
 <br>
 <br>
 
-**下記の説明は https://github.com/keimaruO/kirinuki_dl こちらと同じです。**
+**下記の説明は <https://github.com/keimaruO/kirinuki_dl> こちらと同じです。**
 
 <br>
 <br>

@@ -12,10 +12,14 @@ URLを貼り付けると、エクスプローラーのウィンドウ画面が�
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-試してみた感じこれで問題なく機能すると思いますが、もしかしたらバグとかあるかもです、、！　自分でも数日使って試してみます。
+自分で試してみた感じこれで問題なく機能すると思いますが、もしかしたらバグとかあるかもです、、！　ワイも数日使って試してみます。
 
-ダウンロードがうまくいかない場合は <https://github.com/keimaruO/kirinuki_dl_v1.0.1-beta/issues> ここか
+もしバグなどでダウンロードがうまくいかない場合は <https://github.com/keimaruO/kirinuki_dl_v1.0.1-beta/issues> ここか
 
 Twitter <https://twitter.com/keimaru114514> でDMやらメンション付けて連絡いだだければ修正します～
 

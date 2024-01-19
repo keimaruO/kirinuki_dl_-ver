@@ -17,7 +17,20 @@
 
 インストール方法は、拡張子が py のファイル中身、ソースコードを変更しただけなので
 
+<br>
+<br>
+
+<img src="https://github.com/keimaruO/kirinuki_dl_v1.0.1-beta/assets/91080250/185194db-7b55-42ef-a425-730e091cb8f3" width="640px">
+
+<br>
+<br>
+<br>
+<br>
+
 このプロジェクトを当ページ上部からダウンロードしてきて
+
+<br>
+<br>
 
 ```bash
 Audio.py
@@ -26,9 +39,12 @@ Section.py
 Live-wait.py
 ```
 
+<br>
+<br>
+
 この4つのファイルを置き換えれてあげればOK
 
-![image](https://github.com/keimaruO/kirinuki_dl/assets/91080250/9f4d7d1e-f629-4af1-bf0a-692569d5f8b1)
+
 
 
 <br>

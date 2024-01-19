@@ -1,23 +1,19 @@
+URLを貼り付けると保存したい場所を選択するエクスプローラーのウィンドウ画面が出てきます。
+
+保存したいフォルダを選択したらダウンロードが開始されます。
 
 
-
 <br>
 <br>
 <br>
 <br>
 
-**以下の説明はhttps://github.com/keimaruO/kirinuki_dlこちらと同じです。**
+**下記の説明はhttps://github.com/keimaruO/kirinuki_dlこちらと同じです。**
 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
